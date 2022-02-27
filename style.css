@@ -24,8 +24,8 @@ p {
   background-color:#ddd;
   max-width:100%;
   padding:10px;
-  margin:20px;
-  height:300px;
+  margin:30px 20px 30px 20px;
+  height:400px;
   box-shadow:1px 1px 6px;
 } 
 #buttons {
@@ -45,13 +45,14 @@ p {
 .experience { 
   background-color:#ddd;
   max-width:100%;
-  Height:300px;
+  Height:400px;
   padding:5px;
-  Margin:10px;
+  Margin:30px 10px 30px 10px;
   box-shadow:1px 1px 6px;
 } 
 /***********Conatact*********/
 .Form {
+  text-align:center;
   background-color:#ddd;
   padding:20px;
   margin:5px;
