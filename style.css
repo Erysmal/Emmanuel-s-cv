@@ -12,6 +12,10 @@ p {
   line-height:1.5;
   font-weight:normal;
 } 
+.center {
+  margin-left:auto;
+  margin-right:auto;
+} 
 /***********Home***********/
 .header {
   padding:20px 0 20px 0;
@@ -56,5 +60,23 @@ p {
   background-color:#ddd;
   padding:20px;
   margin:5px;
+  border-radius:25px;
   box-shadow:1px 1px 6px;
+} 
+.Form input {
+height:80%;
+  width:80%;
+  font-size:18px;
+  outline:none;
+  border:none;
+  color:white;
+  background:white;
+  border-radius:25px;
+  box-shadow:inset 2px 2px 5px #ddd, inset -1px -1px 2px  #eee 
+} 
+.Form button {
+Padding:10px;
+width:50%;
+margin:20px auto 20px auto;
+border-radius:25px;
 } 
