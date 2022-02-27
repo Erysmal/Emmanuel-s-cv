@@ -1,0 +1,59 @@
+body {
+  background-color:#F7F6F2;
+  text-align:center;
+  font-family: merriweather, arial serif;
+  margin:0;
+} 
+h1 h2 {
+  font-family:helvetica ;
+  font-weight:bold;
+} 
+p {
+  line-height:1.5;
+  font-weight:normal;
+} 
+/***********Home***********/
+.header {
+  padding:20px 0 20px 0;
+  margin:10px 0 10px 0;
+} 
+.email {
+  font-weight:normal;
+} 
+.main {
+  background-color:#ddd;
+  max-width:100%;
+  padding:10px;
+  margin:20px;
+  height:300px;
+  box-shadow:1px 1px 6px;
+} 
+#buttons {
+  padding:10px;
+  
+} 
+.buttons {
+  display:inline-block;
+  justify-content:center;
+  padding:10px;
+  margin:20px;
+} 
+.buttons:hover {
+  Color:black;
+} 
+/************Experience**********/
+.experience { 
+  background-color:#ddd;
+  max-width:100%;
+  Height:300px;
+  padding:5px;
+  Margin:10px;
+  box-shadow:1px 1px 6px;
+} 
+/***********Conatact*********/
+.Form {
+  background-color:#ddd;
+  padding:20px;
+  margin:5px;
+  box-shadow:1px 1px 6px;
+} 
