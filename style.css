@@ -54,6 +54,14 @@ p {
   Margin:30px 10px 30px 10px;
   box-shadow:1px 1px 6px;
 } 
+.exper {
+background-color:#ddd;
+max-width:100%;
+Height:400px;
+Text-align:left;
+Margin:30px 10px 30px 10px;
+box-shadow:1px 1px 6px;
+} 
 
 /***********Conatact*********/
 .Form {
