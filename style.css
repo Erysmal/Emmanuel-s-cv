@@ -35,7 +35,7 @@ p {
   box-sizing:content-box;
 
 } 
-man {
+.man {
  background-color:#ddd;
  max-width:100%;
  padding:10px;
@@ -76,7 +76,7 @@ box-shadow:1px 1px 6px;
 } 
 
 /***********Conatact*********/
-bdy {
+.bdy {
   Text-align:justify;
 } 
 .Form {
