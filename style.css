@@ -24,7 +24,7 @@ p {
 } 
 .main {
   background-color:#ddd;
-  max-width:50%;
+  min-width:50%;
   padding:10px;
   margin:30px 20px 30px 20px;
   min-height:300px;
@@ -76,9 +76,10 @@ box-shadow:1px 1px 6px;
   border-radius:25px;
   box-shadow:1px 1px 6px;
   text-align:center;
+  box-size:content-box;
 } 
 .Form input {
-height:50%;
+height:100%;
   width:50%;
   font-size:18px;
   outline:none;
