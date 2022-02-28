@@ -7,6 +7,7 @@ body {
 h1 h2 {
   font-family:helvetica ;
   font-weight:bold;
+  text-align:center
 } 
 p {
   line-height:1.5;
