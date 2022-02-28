@@ -24,6 +24,7 @@ p {
 .header {
   padding:20px 0 20px 0;
   margin:10px 0 10px 0;
+  text-align:center;
 } 
 .email {
   font-weight:normal;
@@ -64,7 +65,7 @@ p {
 .experience { 
   background-color:#ddd;
   max-width:100%;
-  Height:400px;
+  min-Height:400px;
   padding:5px;
   Margin:30px 10px 30px 10px;
   box-shadow:1px 1px 6px;
@@ -72,8 +73,7 @@ p {
 .exper {
 background-color:#ddd;
 max-width:100%;
-Height:400px;
-Text-align:left;
+ min-Height:400px;
 Margin:30px 10px 30px 10px;
 box-shadow:1px 1px 6px;
 } 
@@ -99,6 +99,7 @@ height:80%;
   box-shadow:inset 2px 2px 5px #ddd, inset -1px -1px 2px  #eee 
 } 
 .Form button {
+text-align:center;
 Padding:10px;
 width:50%;
 margin:20px auto 20px auto;
