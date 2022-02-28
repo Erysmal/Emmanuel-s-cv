@@ -1,11 +1,7 @@
 body {
   background-color:#F7F6F2;
-  font-family: merriweather, arial serif;
+  font-family:arial;
   margin:0;
-} 
-h1 h2 {
-  font-family:helvetica ;
-  text-align:center;
 } 
 p {
   line-height:1.5;
@@ -28,32 +24,27 @@ p {
 } 
 .main {
   background-color:#ddd;
-  max-width:100%;
+  max-width:50%;
   padding:10px;
   margin:30px 20px 30px 20px;
-  height:400px;
+  min-height:300px;
   box-shadow:1px 1px 6px;
   box-sizing:content-box;
 
 } 
 .man {
  background-color:#ddd;
- max-width:100%;
+ min-width:50%;
  padding:10px;
  margin:30px 20px 30px 20px;
- min-height:400px;
- box-sizing:content-box;
- box-shadow:1px 1px 6px;
-} 
-#buttons {
-  padding:10px;
+ min-height:300px;
   
 } 
 .buttons {
   text-align:center;
   display:inline-block;
   justify-content:center;
-  padding:10px;
+  padding:50px;
   margin:20px;
 } 
  a:hover {
@@ -62,16 +53,16 @@ p {
 /************Experience**********/
 .experience { 
   background-color:#ddd;
-  max-width:100%;
-  min-Height:400px;
+  min-width:50%;
+  min-Height:300px;
   padding:5px;
   Margin:30px 10px 30px 10px;
   box-shadow:1px 1px 6px;
 } 
 .exper {
 background-color:#ddd;
-max-width:100%;
- min-Height:400px;
+ min-width:50%;
+ min-Height:300px;
 Margin:30px 10px 30px 10px;
 box-shadow:1px 1px 6px;
 } 
@@ -84,6 +75,7 @@ box-shadow:1px 1px 6px;
   margin:5px;
   border-radius:25px;
   box-shadow:1px 1px 6px;
+  text-align:center;
 } 
 .Form input {
 height:50%;
