@@ -64,6 +64,9 @@ box-shadow:1px 1px 6px;
 } 
 
 /***********Conatact*********/
+bdy {
+  Text-align:none;
+} 
 .Form {
   background-color:#ddd;
   padding:20px;
