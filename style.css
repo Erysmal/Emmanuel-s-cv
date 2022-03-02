@@ -27,7 +27,7 @@ p {
   background-color:#ddd;
   max-width:80%;
   padding:10px;
-  margin:30px 20px 30px 20px;
+  margin:30px auto 30px auto;
   min-height:300px;
   box-shadow:1px 1px 6px;
   box-sizing:content-box;
@@ -37,7 +37,7 @@ p {
  background-color:#ddd;
  max-width:80%;
  padding:10px;
- margin:30px 20px 30px 20px;
+ margin:30px auto 30px auto;
  min-height:300px;
   
 } 
