@@ -70,11 +70,10 @@ box-shadow:1px 1px 6px;
 .login {
   max-width:70%;
   background-color:#ddd;
-  overflow:hidden;
   padding:80px;
   margin:30px auto 500px auto;
   border-radius:20px;
-  box-shadow:1px 1px 6px;
+  box-shadow:2px 2px 8px #ddd;
 } 
 h1 h3 {
   text-align:center;
@@ -86,7 +85,7 @@ h1 h3 {
  #uname {
    width:300px;
    height:40px;
-   border:none;
+   border:none
    border-radius:15px;
    padding-left:12px;
    box-shadow:inset 2px 2px 5px #ddd, inset -1px -1px 2px  #eee  
