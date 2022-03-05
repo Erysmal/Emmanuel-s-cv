@@ -65,6 +65,10 @@ Margin:30px auto 30px auto;
 padding:5px 0 30px 0;
 box-shadow:1px 1px 6px;
 } 
+#buttons {
+  margin-top:50px;
+  padding-top:30px;
+} 
 
 /***********Conatact*********/
  .navbar {
