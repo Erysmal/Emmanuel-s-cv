@@ -108,6 +108,7 @@ a {
   color:black;
   font-weight:bold;
   outline:none;
+  text-decoration:none;
 } 
 #areatext {
   border-radius:5px;
